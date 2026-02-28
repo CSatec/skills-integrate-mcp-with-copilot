@@ -4,5 +4,7 @@
       "type": "http",
       "url": "https://api.githubcopilot.com/mcp/"
     }
-  }
+  },
+  // bump to trigger Step 1 workflow
+  "last_issue_update": "2026-02-28T08:00:00Z"
 }
